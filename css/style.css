@@ -1,0 +1,77 @@
+body
+{
+    background-color: rgba(28, 28, 28, 0.95);
+    color: darkorange;
+}
+.head
+{
+    margin-left: 15%;
+    font-family: "Arial";
+    font-size: 30px;
+
+}
+.pageContent
+{
+    margin-left: 37%;
+}
+.pageContent button
+{
+    width: 120px;
+    height: 30px;
+}
+.pageContent input
+{
+    width: 120px;
+    height: 20px;
+}
+.pageContent label
+{
+   font-family: Arial;
+}
+#letters
+{
+    margin-top: 5px;
+    padding: 5px;
+    max-width: 470px;
+    height: 80px;
+    margin-left: 38%;
+}
+#picture
+{
+    max-width:350px;
+    max-height: 330px;
+    margin-left: 40%;
+}
+.btnChar
+{
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+}
+#ok
+{
+    border-radius: 5px;
+    background-color: chocolate;
+    color: aliceblue;
+    outline: none;
+}
+#ok:hover
+{
+    background-color: darkgreen;
+}
+.btnChar
+{
+    border-radius: 50%;
+    color: aliceblue;
+    background-color: coral;
+    outline: none;
+
+}
+.btnChar:hover
+{
+    background-color: #212d64;
+}
+.btnChar:active
+{
+    background-color: #2bff42;
+}
